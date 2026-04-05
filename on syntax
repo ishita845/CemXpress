@@ -1,0 +1,32 @@
+[33m3c990c47[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m fix vite permission issue
+[33m004cd3d9[m trigger redeploy
+[33m5e7db834[m fixed package.json
+[33m4d8fb421[m first commit
+[33m00ebd9a5[m first commit
+[33mc1a373d5[m update README.md
+[33m261688f5[m vite.config.ts
+[33m3015ffb5[m postcss.config.mjs
+[33mb0dbe87c[m package.json
+[33m4ccecd0f[m package-lock.json
+[33me8dbbe3b[m  index.html
+[33m049deff5[m ShopDetailPage.tsx
+[33mad09b2f0[m SellerShopSettings.tsx
+[33m20ea4fa2[m ellerProfilePage.tsx
+[33md312b940[m ellerInventoryPage.tsx
+[33mfe2c0cb1[m SellerEnquiriesPage.tsx
+[33m250a49bb[m  SellerDashboard.tsx
+[33m284971d4[m  RegisterPage.tsx
+[33mc0c6bfd5[m LoginPage.tsx
+[33mdc842708[m Delete LandingPage.tsx
+[33m768da3fc[m Delete BuyerProfilePage.tsx
+[33m92665aa3[m Delete BuyerEnquiriesPage.tsx
+[33me35977a7[m BuyerDashboardPage.tsx
+[33mc5d406ca[m BuyerBrowsePage.tsx
+[33m4af0591a[m AddMaterialPage.tsx
+[33m8cfa81a1[m code updated
+[33mda36e7fc[m Enhance README with closing remark
+[33m39dc9cfd[m Fix formatting issue in code
+[33m8696c337[m Add files via upload
+[33m17d792a8[m Update code
+[33m2fda66e4[m Add project overview to README
+[33m8f57d275[m Add files via upload
